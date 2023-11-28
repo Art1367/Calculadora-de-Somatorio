@@ -4,7 +4,8 @@
 ## Como rodar o projeto:
 Basta clicar no link: http://127.0.0.1:5500/index.html
 Este link irá lhe redirecionar ao projeto.
-### Foto de Demonstração ![foto](https://github.com/Art1367/Projeto/assets/108029096/60549fc8-dcf7-4c00-aaeb-3253a3264d19)
+### ![Logo do Meu Projeto](![foto](https://github.com/Art1367/Projeto/assets/108029096/5df172e6-bc9b-4b25-9fb8-734bdf881bc4)
+) 
 )
 ## Tecnologias e Frameworks
 ### HTML
