@@ -7,6 +7,8 @@ Este link irá lhe redirecionar ao projeto.
 ### Foto do Projeto (![foto](https://github.com/Art1367/Projeto/assets/108029096/b94c2dcf-e45f-4573-ad05-8855a9659810)
 )
 )
+## Como usar o Projeto:
+Você irá clicar no campo onde mostra para digitar um número, depois terá que digitar um número inteiro positivo e clicar em calcular. Ele lhe mostrará o somatório dos números.
 ## Tecnologias e Frameworks
 ### HTML
 ### CSS
