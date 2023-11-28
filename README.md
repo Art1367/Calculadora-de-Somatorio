@@ -1,4 +1,4 @@
-# Projeto 
+# Calculadora de Somatório 
 ## Descrição
 É um projeto que recebe um numero inteiro positivo e retorna a soma de todos os valores inteiros divisíveis por 3 ou 5, que sejam inferiores ao número passado.
 ## Como rodar o projeto:
